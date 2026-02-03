@@ -24,29 +24,20 @@ add.sum(10,20);
 add.sum(10,20,34);
 add.sum(19,23,56,98);
 getch();
-
- Addition of two numbers                                                        
-30                                                                              
-                                                                                
- Addition of three numbers                                                      
-64                                                                              
-                                                                                
- Addition of four numbers                                                       
-196                                                                             
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
 }
+                                                                           
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                         
