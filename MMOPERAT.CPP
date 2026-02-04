@@ -45,20 +45,7 @@ getch();
 
 
 
-enter the pvalue
-10                                                                              
-enter the svalue                                                                
-30                                                                              
-enter the qvalue                                                                
-55                                                                              
-enter the rvalue                                                                
-70                                                                              
-the value of pval:10                                                            
-the value of sval:30                                                            
-the addition of pval&sval:40                                                    
-the value of qval:55                                                            
-the value of rval:70                                                            
-the addition of qval&rval:125                                                   
+                                             
                                                                                 
                                                                                 
                                                                                 
@@ -70,3 +57,4 @@ the addition of qval&rval:125
                                                                                 
                                                                                 
                                                                                 
+
